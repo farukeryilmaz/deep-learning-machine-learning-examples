@@ -51,7 +51,7 @@ Once the necessary downloads have been made, let's check if the environment has 
 ```
 $ conda env list
 
-Örnek çıktı:
+Example output:
 
 # conda environments:
 #
@@ -73,9 +73,9 @@ To exit from the environtment:
 $ source deactivate
 ```
 
-##Tensorflow and Keras##
+##Tensorflow and Keras
 
-First, if th environment is passive, activate the deeplearning environment. Then enter the following command to install Tensorflow and Keras packages:
+First, if the environment is passive, activate the deeplearning environment. Then enter the following command to install Tensorflow and Keras packages:
 
 ```
 $ conda install -c conda-forge keras tensorflow
@@ -94,9 +94,9 @@ keras-preprocessing       1.0.2                      py_1    conda-forge
 tensorflow                1.10.0                   py36_0    conda-forge
 ```
 
-## OpenAI Gym ##
+## OpenAI Gym
 
-You need to install set up dependencies for the package.
+You need to install/set up dependencies first.
 
 **OpenSuse Leap 15:**
 
