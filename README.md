@@ -73,7 +73,7 @@ To exit from the environtment:
 $ source deactivate
 ```
 
-##Tensorflow and Keras
+## Tensorflow and Keras
 
 First, if the environment is passive, activate the deeplearning environment. Then enter the following command to install Tensorflow and Keras packages:
 
