@@ -6,7 +6,7 @@ Software and libraries:
 - Keras
 - OpenAI Gym
 
-Platform I have tested on: OpenSuse Leap 15 (but distributions like Ubuntu or based on Ubuntu might be less painfull)
+Platform I have tested on: openSUSE Leap 15 (but setup the environment in distributions like Ubuntu or based on Ubuntu might be less painfull to get started quickly)
 
 ## Anaconda Python 3.7
 
@@ -98,7 +98,7 @@ tensorflow                1.10.0                   py36_0    conda-forge
 
 You need to install/set up dependencies first.
 
-**OpenSuse Leap 15:**
+**openSUSE Leap 15:**
 
 ```
 $ sudo zypper install cmake libav-tools librhash0 libuv1 python3-devel python3-opengl python3-opengl-accelerate python2-opengl python2-opengl-accelerate python3-numpy swig zlib-devel libjpeg8 libjpeg8-devel libjpeg8-32bit libjpeg8-devel-32bit xvfb-run xorg-x11-devel libboost*devel ghc-sdl2 ghc-sdl2-devel python3-glfw python2-glfw libglfw3 libglfw3 glfw2-devel libglfw-devel python3-imageio python2-imageio python-cffi python2-lockfile python3-lockfile python2-Cython python3-Cython python2-Pillow python3-Pillow
